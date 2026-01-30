@@ -1,0 +1,21 @@
+recipe_name,ingredients,process
+Biryani,Rice;Chicken;Onions;Tomatoes;Curd;Ginger garlic paste;Biryani masala;Oil;Salt;Water,Wash rice;Fry onions;Add ginger garlic paste;Add chicken and spices;Add curd and tomatoes;Add rice and water;Cook on low flame;Serve hot
+Veg Biryani,Rice;Mixed vegetables;Onions;Tomatoes;Ginger garlic paste;Biryani masala;Oil;Salt;Water,Wash rice;Fry onions;Add vegetables;Add spices;Add rice and water;Cook covered;Serve hot
+Omelette,Eggs;Onion;Green chilli;Salt;Oil,Break eggs;Add onion and chilli;Beat well;Heat oil;Cook both sides;Serve hot
+Boiled Egg,Eggs;Water;Salt,Boil water;Add eggs;Cook for 8 minutes;Cool and peel;Serve
+Maggi,Maggi noodles;Maggi masala;Water,Boil water;Add noodles;Add masala;Cook 2 minutes;Serve hot
+Veg Fried Rice,Cooked rice;Carrot;Beans;Capsicum;Soy sauce;Oil;Salt;Pepper,Heat oil;Saute vegetables;Add rice;Add sauces;Mix well;Serve hot
+Chicken Fried Rice,Cooked rice;Chicken;Vegetables;Soy sauce;Oil;Salt;Pepper,Cook chicken;Heat oil;Saute vegetables;Add rice and chicken;Add sauces;Serve hot
+Chapati,Wheat flour;Water;Salt;Oil,Mix flour and water;Knead dough;Roll chapati;Cook on tawa;Serve hot
+Rice,Rice;Water;Salt,Wash rice;Boil water;Add rice;Cook until soft;Drain water
+Dal,Toor dal;Onion;Tomato;Turmeric;Salt;Oil,Boil dal;Heat oil;Add onion and tomato;Add spices;Mix dal;Serve hot
+Sambar,Toor dal;Vegetables;Sambar powder;Tamarind;Salt;Oil,Cook dal;Cook vegetables;Add tamarind and spices;Mix dal;Boil and serve
+Idli,Idli batter;Oil,Heat idli cooker;Pour batter in moulds;Steam for 10 minutes;Serve hot
+Dosa,Dosa batter;Oil,Heat pan;Pour batter;Spread thin;Cook till crispy;Serve hot
+Upma,Rava;Onion;Green chilli;Water;Oil;Salt,Heat oil;Fry onion and chilli;Add water;Add rava;Cook stirring;Serve hot
+Poha,Poha;Onion;Peanuts;Green chilli;Oil;Salt,Wash poha;Heat oil;Fry peanuts;Add onion and chilli;Add poha;Mix and serve
+Tea,Milk;Water;Tea powder;Sugar,Boil water;Add tea powder;Add milk and sugar;Boil;Strain and serve
+Coffee,Milk;Water;Coffee powder;Sugar,Boil milk and water;Add coffee powder;Add sugar;Mix and serve
+Pasta,Pasta;Water;Salt;Oil;Sauce,Boil pasta;Heat sauce;Mix pasta with sauce;Serve hot
+Sandwich,Bread;Butter;Vegetables;Salt;Pepper,Apply butter;Add vegetables;Season;Grill or serve fresh
+Fruit Salad,Apple;Banana;Orange;Grapes;Honey,Chop fruits;Mix in bowl;Add honey;Serve fresh
